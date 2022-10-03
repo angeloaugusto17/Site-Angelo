@@ -1,0 +1,42 @@
+h1{
+    color:rgb(241, 241, 241);
+}
+
+h2,p{
+    text-align: center;
+}
+
+.item img {
+    max-width:300px;
+    max-height:300px;
+    width: auto;
+    height: auto;
+}
+
+
+body{
+    background-color: rgb(126, 179, 179);
+}
+
+.header{
+    width: 100%;
+    min-height: 100px;
+    background-color: rgb(2, 2, 2);
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.content{
+    background-color: rgb(126, 179, 179);
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.footer{
+    
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: end;
+}
+
